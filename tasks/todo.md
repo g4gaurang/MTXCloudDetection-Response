@@ -17,7 +17,7 @@
 * [x] Identify Managed Detection and Response as requiring validation
 * [x] Provide keyboard-visible controls, a skip link, mobile navigation, and reduced-motion handling
 * [x] Keep contact submission local with no data transmission
-* [ ] Review layouts manually at 390, 768, 1024, and 1440 pixels before publication
+* [x] Review layouts manually at 390, 768, 1024, and 1440 pixels before publication
 * [ ] Validate capability, connector, service, maturity, and operating claims with accountable reviewers
 
 ## Verification
@@ -25,3 +25,5 @@
 * [x] Production build passes
 * [x] Lint passes
 * [x] Prohibited wording and named cloud-vendor search passes
+* [x] Browser console is free of runtime and network errors
+* [x] Representative keyboard navigation and focus states reviewed
